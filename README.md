@@ -24,3 +24,8 @@ Nature -> Instrument -> Data -> Paper -> Press Release
 ## See Also
 
 https://arxiv.org/pdf/2009.11307.pdf
+
+EAS 2020 VS poster
+
+https://www.nature.com/articles/s41550-021-01342-y
+https://www.nature.com/articles/s41550-020-1208-y
