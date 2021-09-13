@@ -29,3 +29,11 @@ EAS 2020 VS poster
 
 https://www.nature.com/articles/s41550-021-01342-y
 https://www.nature.com/articles/s41550-020-1208-y
+
+
+https://datascience.unige.ch/en/research/uniges-data-science-days
+
+for education https://sdgs.un.org/goals/goal4
+for employment https://sdgs.un.org/goals/goal8
+consumptuion https://sdgs.un.org/goals/goal12
+decision making https://sdgs.un.org/topics/information-integrated-decision-making-and-participation
