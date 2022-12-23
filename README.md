@@ -12,6 +12,8 @@ It's not a coincidennce that "Reusability" is both "R" in FAIR and one of the ke
 
 *ODA makes finding and re-using previously computed data and workflows the first principle*
 
+This poses and advantage comparing to precompute-all approaches which potentially produce not substantially untilized results.
+
 ## Communication
 
 Societal impact of interoperability methodology  communication
