@@ -8,6 +8,8 @@ Costs of Computing are large and growing
 
 Reuse relies on interoperability and communication - developing languages.
 
+It's not a coincidennce that "Reusability" is both "R" in FAIR and one of the key directions of sustainable development.
+
 *ODA makes finding and re-using previously computed data and workflows the first principle*
 
 ## Communication
